@@ -30,3 +30,8 @@ gem "redcarpet"
 gem "test-unit"
 gem "webrick"
 gem "yard"
+
+gem "rubocop"
+gem 'rubocop-performance', require: false
+gem 'rubocop-rake'
+gem 'rubocop-rubycw', require: false
